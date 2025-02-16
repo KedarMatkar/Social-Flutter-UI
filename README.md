@@ -1,16 +1,34 @@
-# winner
+# Social Flutter UI
 
-A new Flutter project.
+Flutter provides a rich set of widgets and tools to create stunning, high-performance UIs.
 
-## Getting Started
+## **Flutter UI:**
 
-This project is a starting point for a Flutter application.
+The app utilizes:
 
-A few resources to get you started if this is your first Flutter project:
+Material Design & Cupertino Widgets: Ensuring a native feel for both Android and iOS users.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Custom Animations: Smooth transitions and interactions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Responsive Layouts: Adaptive UI for different screen sizes.
+
+Dark Mode Support: A user-friendly interface for low-light environments.
+
+Theming & Styling: Consistent color schemes and typography.
+
+## **Technologies Used:**
+
+Flutter: Cross-platform UI development
+
+Dart: Programming language
+
+Firebase: Real-time database and authentication
+
+Google Fit / Apple HealthKit: Health data integration
+
+Provider / Riverpod: State management
+
+Hive / Shared Preferences: Local storage for user data
+
+![iPhone 13 mini - 2](https://github.com/user-attachments/assets/f0e6da9e-4061-4c10-95d8-6b7b1820376c)
+
